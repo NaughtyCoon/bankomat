@@ -14,6 +14,7 @@ public class Controller {
         model.addUser("Jack Torrens", "2345", 0, false);
         model.addUser("Helen Ripley", "3456", 0, false);
         model.addUser("Natasha Romanov", "4567", 0, false);
+
     }
 
     public void start(){
